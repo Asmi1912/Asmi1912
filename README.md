@@ -26,5 +26,15 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
+### :link: &nbsp;Contact Info
+
+<p align="center">
+<a href="https://www.linkedin.com/in/asmi-snigdha-90a43b225/"><img src="https://img.shields.io/badge/-Asmi%20Snigdha-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://github.com/Asmi1912"><img src="https://img.shields.io/badge/-AsmiSnigdha-3423A6?style=for-the-badge&logo=Github&logoColor=white"/></a>
+</p>
+
+
+------
+
 
 
